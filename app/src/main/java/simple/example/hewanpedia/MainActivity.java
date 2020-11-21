@@ -10,7 +10,7 @@ import android.widget.ImageButton;
 public class MainActivity extends AppCompatActivity {
 
     ImageButton btnKucing,btnAnjing,btnBuaya;
-    public static final String JENIS_GALERI_KEY = "JENIS_GALERI";
+    public static final String JENIS_GALERI_KEY = "JENIS_GALERI.";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
